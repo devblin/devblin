@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Deepanshu"s Status](https://github-readme-stats.vercel.app/api?username=devblin&show_icons=true&hide_border=true)
+![Deepanshu"s Status](https://github-readme-stats.vercel.app/api/top-langs/?username=devblin&theme=vue&hide=css,html)
+
 <!--
 **devblin/devblin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Deepanshu's github stats](https://github-readme-stats.vercel.app/api?username=devblin)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devblin&layout=compact)](https://github.com/devblin/github-readme-stats)
