@@ -5,6 +5,6 @@
 - ⚡ Fun fact: Lazy.
 
 ![alt text](https://github.com/devblin/devblin/blob/master/naruto.gif)
-![Deepanshu"s Status](https://github-readme-stats.vercel.app/api?username=devblin&show_icons=true&hide_border=true)
 
+![Deepanshu"s Status](https://github-readme-stats.vercel.app/api?username=devblin&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devblin&hide_border=true)
