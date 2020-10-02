@@ -1,6 +1,6 @@
 ### Hi there 🕷️
 
-- 🔭 I’m currently thinking new ideas.
+- 🔭 I’m currently thinking new ideas.        ![alt text](https://github.com/devblin/devblin/blob/master/naruto.gif)
 - 🌱 I’m currently learning MERN.
 - ⚡ Fun fact: Lazy.
 
