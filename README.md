@@ -1,4 +1,4 @@
-### Hi there 🕷️
+### Hi there 👋
 
 - 🔭 I’m currently thinking new ideas.        
 - 🌱 I’m currently learning MERN.
