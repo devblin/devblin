@@ -1,5 +1,4 @@
 ### Helo 👋
-![](https://komarev.com/ghpvc/?username=devblin&style=flat-square)
 
 - 🔭 I’m currently thinking new ideas.        
 - 🌱 In pandemic.
