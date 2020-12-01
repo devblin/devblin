@@ -1,6 +1,6 @@
 ### Helo 👋
 
-- 🔭 I’m currently thinking.        
+- 🔭 I’m currently __________.        
 - 🌱 In pandemic.
 - ⚡ Fun fact: Lazy.
 
