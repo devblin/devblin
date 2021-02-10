@@ -1,6 +1,5 @@
 ### Helo 👋
 
-- 🔭 I’m currently __________.        
 - 🌱 In pandemic.
 - ⚡ Fun fact: Lazy.
 
