@@ -1,4 +1,4 @@
-# Helo 👋
+# Hello 👋
 🌱 In pandemic.  
 ⚡ Fun fact: Lazy.
 
