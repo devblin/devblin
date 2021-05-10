@@ -1,4 +1,4 @@
-<h1>Hello 👋</h1>
+# Hello 👋
 🌱 In pandemic.  
 ⚡ Fun fact: Lazy.
 <p align="center">
