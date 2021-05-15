@@ -1,6 +1,8 @@
 # Hello 👋
 🌱 In pandemic.  
 ⚡ Fun fact: Lazy.
+
+<div align="center"><i></i></div><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devblin&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&icon_color=fb8c00&include_all_commits=true&custom_title=📙 Deepanshu Dhruw's Github Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devblin&layout=compact&hide=&langs_count=10&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&icon_color=fb8c00&custom_title=💻 Most Used Languages">
