@@ -27,12 +27,12 @@
 
     //Date to Friday 21, 2021 format
     $date = date("Y-m-d h:i:s");
-    $date = date("F jS, Y", strtotime($date));
+    $date = date("F j, Y, g:i a", strtotime($date));
 
     //Readme data to update
     $hello = "# Hello 👋\n\n";
     $recent = "🌱 In pandemic. <br> ⚡ Fun fact: Lazy.\n\n";
-    $quote_area = "<div align=\"center\"><b>\"$quote_content\"</b><br><i> - $quote_author</i></div>\n\n";
+    $quote_area = "<hr>\n<div align=\"center\"><b>\"$quote_content\"</b><br><i> - $quote_author</i></div>\n<hr>\n\n";
     $center_align_start = "<p align=\"center\">\n"; 
     $github_stats = "\t<img src=\"https://github-readme-stats.vercel.app/api?username=devblin&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&icon_color=fb8c00&include_all_commits=true&custom_title=📙 Deepanshu Dhruw's Github Stats\">\n";
     $most_lang = "\t<img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=devblin&layout=compact&hide=&langs_count=10&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&icon_color=fb8c00&custom_title=💻 Most Used Languages\">\n";
