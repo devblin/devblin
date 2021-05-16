@@ -5,7 +5,7 @@ on:
             - master
 
     schedule:
-        - cron: "30 7 * * *"
+        - cron: '46 7 * * *'
 jobs:
     build-and-deploy:
         runs-on: ubuntu-latest
