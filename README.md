@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"In order to attain the impossible, one must attempt the absurd."</b><br><i> - Miguel de Cervantes</i></div>
+<div align="center"><b>"As mortals, we're ruled by conditions, not by ourselves."</b><br><i> - Bodhidharma</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: May 16, 2021, 1:16 am</kbd>
+<kbd>Last updated: May 17, 2021, 12:16 pm</kbd>
