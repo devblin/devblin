@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"We suffer more often in imagination than in reality."</b><br><i> - Seneca</i></div>
+<div align="center"><b>"Lost Time is never found again."</b><br><i> - Benjamin Franklin </i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: May 19, 2021, 11:49 am</kbd>
+<kbd>Last updated: May 20, 2021, 11:49 am</kbd>
