@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"Pleasure can be supported by an illusion; but happiness rests upon truth. "</b><br><i> - Nicolas Chamfort</i></div>
+<div align="center"><b>"Employ your time in improving yourself by other men's writings, so that you <br>  shall gain easily what others have labored hard for. <br> "</b><br><i> - Socrates</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: May 22, 2021, 11:48 am</kbd>
+<kbd>Last updated: May 23, 2021, 11:49 am</kbd>
