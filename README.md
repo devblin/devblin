@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"Be happy in the moment, that's enough. Each moment is all we need, not more <br> . <br> "</b><br><i> - Mother Teresa</i></div>
+<div align="center"><b>"Only those who will risk going too far can possibly find out how far one ca <br> n go. <br> "</b><br><i> - T.S. Eliot</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: May 26, 2021, 12:07 pm</kbd>
+<kbd>Last updated: May 27, 2021, 12:12 pm</kbd>
