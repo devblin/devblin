@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"Life can only be understood backwards; but it must be lived forwards."</b><br><i> - Soren Kierkegaard</i></div>
+<div align="center"><b>"Keep away from people who try to belittle your ambitions."</b><br><i> - Mark Twain</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: May 30, 2021, 12:41 pm</kbd>
+<kbd>Last updated: May 31, 2021, 12:51 pm</kbd>
