@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"Keep away from people who try to belittle your ambitions."</b><br><i> - Mark Twain</i></div>
+<div align="center"><b>"Success comes from knowing that you did your best to become the best that y <br> ou are capable of becoming. <br> "</b><br><i> - John Wooden</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: May 31, 2021, 12:51 pm</kbd>
+<kbd>Last updated: June 1, 2021, 1:17 am</kbd>
