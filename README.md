@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"Enthusiasm is a vital element toward the individual success of every man or <br>  woman. <br> "</b><br><i> - Conrad Hilton</i></div>
+<div align="center"><b>"Man is affected not by events but by the view he takes of them.  "</b><br><i> - Seneca</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: June 2, 2021, 1:19 am</kbd>
+<kbd>Last updated: June 3, 2021, 12:53 pm</kbd>
