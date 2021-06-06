@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"If we are honest with ourselves, most of us will have to admit that we live <br>  out our lives in an ocean of fear. <br> "</b><br><i> - Jon Kabat-Zinn</i></div>
+<div align="center"><b>"The world doesn't always give you want, but it often gives you what you nee <br> d. <br> "</b><br><i> - Naval Ravikant</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: June 5, 2021, 12:21 pm</kbd>
+<kbd>Last updated: June 6, 2021, 12:14 pm</kbd>
