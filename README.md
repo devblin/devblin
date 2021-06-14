@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"Change yourself - you are in control."</b><br><i> - Mahatma Gandhi</i></div>
+<div align="center"><b>"Never spend your money before you have earned it."</b><br><i> - Thomas Jefferson</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: June 13, 2021, 11:45 am</kbd>
+<kbd>Last updated: June 14, 2021, 11:46 am</kbd>
