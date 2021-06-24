@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"When you want to be honored by others, you learn to honor them first."</b><br><i> - Sathya Sai Baba</i></div>
+<div align="center"><b>"In the midst of chaos, there is also opportunity."</b><br><i> - Sun Tzu</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: June 23, 2021, 11:45 am</kbd>
+<kbd>Last updated: June 24, 2021, 11:39 am</kbd>
