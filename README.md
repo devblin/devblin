@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"Success is about creating value."</b><br><i> - Candice Carpenter</i></div>
+<div align="center"><b>"The people who are crazy enough to think they can change the world are the  <br> ones who do. <br> "</b><br><i> - Steve Jobs</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: June 26, 2021, 11:46 am</kbd>
+<kbd>Last updated: June 27, 2021, 11:46 am</kbd>
