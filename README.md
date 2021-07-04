@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"Take interest and even delight in doing the small things well."</b><br><i> - Jim Rohn</i></div>
+<div align="center"><b>"Successful people ask better questions, and as a result, they get better an <br> swers. <br> "</b><br><i> - Tony Robbins</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: July 3, 2021, 11:45 am</kbd>
+<kbd>Last updated: July 4, 2021, 11:45 am</kbd>
