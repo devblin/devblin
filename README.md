@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"If you want to know what God thinks about money just look at the people He  <br> gives it to. <br> "</b><br><i> - Alexander Pope</i></div>
+<div align="center"><b>"The key to success is to focus our conscious mind on things we desire not t <br> hings we fear.  <br> "</b><br><i> - Brian Tracy</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: July 11, 2021, 11:46 am</kbd>
+<kbd>Last updated: July 12, 2021, 11:46 am</kbd>
