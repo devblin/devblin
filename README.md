@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"A creative man is motivated by the desire to achieve, not by the desire to  <br> beat others. <br> "</b><br><i> - Ayn Rand</i></div>
+<div align="center"><b>"Happiness can be found, even in the darkest of times, if one only remembers <br>  to turn on the light. <br> "</b><br><i> - Albus Dumbledore</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: July 13, 2021, 11:46 am</kbd>
+<kbd>Last updated: July 14, 2021, 11:46 am</kbd>
