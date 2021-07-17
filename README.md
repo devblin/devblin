@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"He who permits himself to tell a lie once, finds it much easier to do it th <br> e second time. <br> "</b><br><i> - Thomas Jefferson</i></div>
+<div align="center"><b>"The world doesn't always give you want, but it often gives you what you nee <br> d. <br> "</b><br><i> - Naval Ravikant</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: July 16, 2021, 11:46 am</kbd>
+<kbd>Last updated: July 17, 2021, 11:45 am</kbd>
