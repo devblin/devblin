@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"As a man thinketh in his heart, so shall he be."</b><br><i> - James Allen</i></div>
+<div align="center"><b>"We would accomplish many more things if we did not think of them as impossi <br> ble. <br> "</b><br><i> - Vince Lombardi</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: July 20, 2021, 11:46 am</kbd>
+<kbd>Last updated: July 21, 2021, 11:46 am</kbd>
