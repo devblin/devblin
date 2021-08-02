@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"Surrender to what is. Let go of what was. Have faith in what will be."</b><br><i> - Sonia Ricotti</i></div>
+<div align="center"><b>"To himself everyone is immortal; he may know that he is going to die, but h <br> e can never know he is dead. <br> "</b><br><i> - Samuel Butler</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: August 1, 2021, 11:46 am</kbd>
+<kbd>Last updated: August 2, 2021, 11:46 am</kbd>
