@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"Today you are you, that is truer than true. There is no one alive who is yo <br> u-er than you. <br> "</b><br><i> - Dr. Seuss</i></div>
+<div align="center"><b>"Just as true humor is laughter at oneself, true humanity is knowledge of on <br> eself. <br> "</b><br><i> - Alan Watts</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: August 6, 2021, 11:46 am</kbd>
+<kbd>Last updated: August 7, 2021, 11:45 am</kbd>
