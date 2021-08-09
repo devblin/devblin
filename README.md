@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"Be where your enemy is not."</b><br><i> - Sun Tzu</i></div>
+<div align="center"><b>"Life is like riding a bicycle. To keep your balance you must keep moving."</b><br><i> - Albert Einstein</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: August 8, 2021, 11:45 am</kbd>
+<kbd>Last updated: August 9, 2021, 11:46 am</kbd>
