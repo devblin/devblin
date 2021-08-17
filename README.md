@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future <br>  happiness. <br> "</b><br><i> - Steve Maraboli</i></div>
+<div align="center"><b>"Supreme excellence consists of breaking the enemy's resistance without figh <br> ting. <br> "</b><br><i> - Sun Tzu</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: August 16, 2021, 11:49 am</kbd>
+<kbd>Last updated: August 17, 2021, 11:46 am</kbd>
