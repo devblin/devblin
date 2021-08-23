@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"I live by letting things happen."</b><br><i> - Dogen</i></div>
+<div align="center"><b>"Success is not what you do when you are on top.  Success is how high you bo <br> unce when you hit the bottom. <br> "</b><br><i> - Sonia Ricotti</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: August 22, 2021, 11:45 am</kbd>
+<kbd>Last updated: August 23, 2021, 11:45 am</kbd>
