@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"The only way to make sense out of change is to plunge into it, move with it <br> , and join the dance. <br> "</b><br><i> - Alan Watts</i></div>
+<div align="center"><b>"Your only limitations are those you set up in your mind or permit others to <br>  set up for you. <br> "</b><br><i> - Og Mandino</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: August 26, 2021, 11:45 am</kbd>
+<kbd>Last updated: August 27, 2021, 11:45 am</kbd>
