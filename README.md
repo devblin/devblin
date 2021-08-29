@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"Leaders spend 5% of their time on the problem & 95% of their time on the so <br> lution. Get over it & crush it! <br> "</b><br><i> - Tony Robbins</i></div>
+<div align="center"><b>"The greatest gift that you can give to others is the gift of unconditional  <br> love and acceptance.  <br> "</b><br><i> - Brian Tracy</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: August 28, 2021, 11:45 am</kbd>
+<kbd>Last updated: August 29, 2021, 11:44 am</kbd>
