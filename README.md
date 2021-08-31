@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"Always dream and shoot higher than you know you can do. Do not bother just  <br> to be better than your contemporaries or predecessors. Try to be better tha <br> n yourself. <br> "</b><br><i> - William Faulkner</i></div>
+<div align="center"><b>"Your neighbor is the man who needs you."</b><br><i> - Elbert Hubbard</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: August 30, 2021, 11:45 am</kbd>
+<kbd>Last updated: August 31, 2021, 11:45 am</kbd>
