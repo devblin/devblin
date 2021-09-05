@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"Life is not just the passing of time. Life is the collection of experiences <br>  and their intensity. <br> "</b><br><i> - Jim Rohn</i></div>
+<div align="center"><b>"The shoe that fits one person pinches another; there is no recipe for livin <br> g that suits all cases. <br> "</b><br><i> - Carl Jung</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: September 4, 2021, 11:45 am</kbd>
+<kbd>Last updated: September 5, 2021, 11:45 am</kbd>
