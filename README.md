@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"You were put on this earth to achieve your greatest self, to live out your  <br> purpose, and to do it courageously. <br> "</b><br><i> - Steve Maraboli</i></div>
+<div align="center"><b>"As you grow older you will discover that you have two hands. One for helpin <br> g yourself, the other for helping others. <br> "</b><br><i> - Audrey Hepburn</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: September 14, 2021, 11:45 am</kbd>
+<kbd>Last updated: September 15, 2021, 11:45 am</kbd>
