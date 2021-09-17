@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"Fear is your worst enemy. Risk is your best friend."</b><br><i> - Gurbaksh Chahal</i></div>
+<div align="center"><b>"Emancipate yourself from mental slavery, none but ourselves can free our mi <br> nd. <br> "</b><br><i> - Bob Marley</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: September 16, 2021, 11:45 am</kbd>
+<kbd>Last updated: September 17, 2021, 11:45 am</kbd>
