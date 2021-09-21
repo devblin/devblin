@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"Failure is an option, fear is not."</b><br><i> - James Cameron</i></div>
+<div align="center"><b>"The question isn't who is going to let me; it's who is going to stop me."</b><br><i> - Ayn Rand</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: September 20, 2021, 11:46 am</kbd>
+<kbd>Last updated: September 21, 2021, 11:45 am</kbd>
