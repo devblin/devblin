@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"I have lost friends, some by death...others by sheer inability to cross the <br>  street. <br> "</b><br><i> - Virginia Woolf</i></div>
+<div align="center"><b>"Start each day with a positive thought and a grateful heart."</b><br><i> - Roy T. Bennett</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: September 22, 2021, 11:45 am</kbd>
+<kbd>Last updated: September 23, 2021, 11:45 am</kbd>
