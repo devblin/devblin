@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"The truth… It is a beautiful and terrible thing, and should therefore be  <br> treated with great caution. <br> "</b><br><i> - Albus Dumbledore</i></div>
+<div align="center"><b>"In the long run, the sharpest weapon of all is a kind and gentle spirit."</b><br><i> - Anne Frank</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: September 29, 2021, 11:45 am</kbd>
+<kbd>Last updated: September 30, 2021, 11:45 am</kbd>
