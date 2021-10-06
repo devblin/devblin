@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"The mirror is a worthless invention. The only way to truly see yourself is  <br> in the reflection of someone elses. eyes. <br> "</b><br><i> - Voltaire</i></div>
+<div align="center"><b>"The wise warrior avoids the battle."</b><br><i> - Sun Tzu</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: October 5, 2021, 11:45 am</kbd>
+<kbd>Last updated: October 6, 2021, 11:45 am</kbd>
