@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"The wise warrior avoids the battle."</b><br><i> - Sun Tzu</i></div>
+<div align="center"><b>"Until you make the unconscious conscious, it will direct your life and you  <br> will call it fate. <br> "</b><br><i> - Carl Jung</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: October 6, 2021, 11:45 am</kbd>
+<kbd>Last updated: October 7, 2021, 11:45 am</kbd>
