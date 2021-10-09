@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"Every adversity, every failure, every heartbreak, carries with it the seed  <br> of an equal or greater benefit. <br> "</b><br><i> - Napoleon Hill</i></div>
+<div align="center"><b>"Life is a long lesson in humility. "</b><br><i> - James Matthew Barrie</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: October 8, 2021, 11:45 am</kbd>
+<kbd>Last updated: October 9, 2021, 11:45 am</kbd>
