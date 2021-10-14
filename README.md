@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"Perfection is not attainable, but if we chase perfection we can catch excel <br> lence. <br> "</b><br><i> - Vince Lombardi</i></div>
+<div align="center"><b>"If you're afraid - don't do it, - if you're doing it - don't be afraid! "</b><br><i> - Genghis Khan</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: October 13, 2021, 11:45 am</kbd>
+<kbd>Last updated: October 14, 2021, 11:45 am</kbd>
