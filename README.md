@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <hr>
-<div align="center"><b>"People don't care how much you know until they know how much you care."</b><br><i> - Theodore Roosevelt</i></div>
+<div align="center"><b>"The health of nations is more important than the wealth of nations."</b><br><i> - Will Rogers</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: October 23, 2021, 11:45 am</kbd>
+<kbd>Last updated: October 24, 2021, 11:45 am</kbd>
