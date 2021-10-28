@@ -32,6 +32,7 @@
     //Readme data to update
     $hello = "# Hello 👋\n\n";
     $recent = "🌱 In pandemic. <br> ⚡ Fun fact: Lazy.\n\n";
+    $profile_views = "<img src=\"https://komarev.com/ghpvc/?username=devblin&style=flat-square&color=FF2D2D\"></img>";
     $quote_area = "<hr>\n<div align=\"center\"><b>\"$quote_content\"</b><br><i> - $quote_author</i></div>\n<hr>\n\n";
     $center_align_start = "<p align=\"center\">\n"; 
     $github_stats = "\t<img src=\"https://github-readme-stats.vercel.app/api?username=devblin&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&icon_color=fb8c00&include_all_commits=true&custom_title=📙 Deepanshu Dhruw's Github Stats\">\n";
@@ -43,7 +44,7 @@
 
     //Read README.md
     $readme = fopen("README.md", "w");
-    $readme_content = $hello.$recent.$quote_area.$center_align_start.$github_stats.$most_lang.$streak_stats.$wakatime.$center_align_end.$last_updated;
+    $readme_content = $hello.$recent.$profile_views.$quote_area.$center_align_start.$github_stats.$most_lang.$streak_stats.$wakatime.$center_align_end.$last_updated;
     fwrite($readme, $readme_content);
     fclose($readme);
 ?>
