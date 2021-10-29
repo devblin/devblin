@@ -2,8 +2,8 @@
 
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
-<hr>
-<div align="center"><b>"Wealth consists not in having great possessions, but in having few wants."</b><br><i> - Epictetus</i></div>
+<img src="https://komarev.com/ghpvc/?username=devblin&style=flat-square&color=FF2D2D"></img><hr>
+<div align="center"><b>"The fear of death follows from the fear of life. A man who lives fully is p <br> repared to die at any time. <br> "</b><br><i> - Mark Twain</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: October 28, 2021, 11:46 am</kbd>
+<kbd>Last updated: October 29, 2021, 11:46 am</kbd>
