@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <img src="https://komarev.com/ghpvc/?username=devblin&style=flat-square&color=FF2D2D"></img><hr>
-<div align="center"><b>"All problems are illusions of the mind."</b><br><i> - Eckhart Tolle</i></div>
+<div align="center"><b>"The scariest moment is always just before you start. After that, things can <br>  only get better. <br> "</b><br><i> - Stephen King</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: November 7, 2021, 11:46 am</kbd>
+<kbd>Last updated: November 8, 2021, 11:46 am</kbd>
