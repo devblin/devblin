@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <img src="https://komarev.com/ghpvc/?username=devblin&style=flat-square&color=FF2D2D"></img><hr>
-<div align="center"><b>"There is an essence of when you are fearless, you become more creative."</b><br><i> - Gurbaksh Chahal</i></div>
+<div align="center"><b>"There are three classes of people: those who see. Those who see when they a <br> re shown. Those who do not see. <br> "</b><br><i> - Leonardo da Vinci</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&langs_count=20&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: November 11, 2021, 11:46 am</kbd>
+<kbd>Last updated: November 12, 2021, 11:46 am</kbd>
