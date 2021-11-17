@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <img src="https://komarev.com/ghpvc/?username=devblin&style=flat-square&color=FF2D2D"></img><hr>
-<div align="center"><b>"Here is the test to find whether your mission on earth is finished. If you' <br> re alive, it isn't. <br> "</b><br><i> - Richard Bach</i></div>
+<div align="center"><b>"Believe you can and you're halfway there."</b><br><i> - Theodore Roosevelt</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&langs_count=20&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: November 16, 2021, 11:45 am</kbd>
+<kbd>Last updated: November 17, 2021, 11:46 am</kbd>
