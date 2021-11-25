@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <img src="https://komarev.com/ghpvc/?username=devblin&style=flat-square&color=FF2D2D"></img><hr>
-<div align="center"><b>"We need never be ashamed of our tears."</b><br><i> - Charles Dickens</i></div>
+<div align="center"><b>"An inventor is a man who asks Why? of the universe and lets nothing stand b <br> etween the answer and his mind. <br> "</b><br><i> - Ayn Rand</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&langs_count=20&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: November 24, 2021, 11:46 am</kbd>
+<kbd>Last updated: November 25, 2021, 11:46 am</kbd>
