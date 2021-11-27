@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <img src="https://komarev.com/ghpvc/?username=devblin&style=flat-square&color=FF2D2D"></img><hr>
-<div align="center"><b>"Death walks faster than the wind and never returns what he has taken."</b><br><i> - Hans Christian Andersen</i></div>
+<div align="center"><b>"All human wisdom is contained in these two words - Wait and Hope"</b><br><i> - Alexandre Dumas</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&langs_count=20&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: November 26, 2021, 11:46 am</kbd>
+<kbd>Last updated: November 27, 2021, 11:45 am</kbd>
