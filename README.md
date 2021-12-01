@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <img src="https://komarev.com/ghpvc/?username=devblin&style=flat-square&color=FF2D2D"></img><hr>
-<div align="center"><b>"To the mind that is still, the whole universe surrenders."</b><br><i> - Lao Tzu</i></div>
+<div align="center"><b>"Everyone has oceans to fly, if they have the heart to do it. Is it reckless <br> ? Maybe. But what do dreams know of boundaries. <br> "</b><br><i> - Amelia Earhart</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&langs_count=20&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: November 30, 2021, 11:43 am</kbd>
+<kbd>Last updated: December 1, 2021, 11:46 am</kbd>
