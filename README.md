@@ -3,7 +3,7 @@
 🌱 In pandemic. <br> ⚡ Fun fact: Lazy.
 
 <img src="https://komarev.com/ghpvc/?username=devblin&style=flat-square&color=FF2D2D"></img><hr>
-<div align="center"><b>"If you're walking down the right path and you're willing to keep walking, e <br> ventually you'll make progress. <br> "</b><br><i> - Barack Obama</i></div>
+<div align="center"><b>"Champions keep playing until they get it right."</b><br><i> - Billie Jean King</i></div>
 <hr>
 
 <p align="center">
@@ -13,4 +13,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=devblin&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=3790D7&title_color=FF2D2D&langs_count=20&custom_title=⏳ Wakatime Stats">
 </p>
 
-<kbd>Last updated: December 7, 2021, 11:47 am</kbd>
+<kbd>Last updated: December 8, 2021, 11:40 am</kbd>
